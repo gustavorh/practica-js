@@ -1,0 +1,108 @@
+a:link {
+    text-decoration: none;
+    color: #888;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #888;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+#contenedor {
+    width: 90%;
+    height: 1500px;
+    border: 1px solid #333;
+    margin: 0% 5%;
+    box-shadow: 4px 4px 10px #333;
+}
+
+#header {
+    width: 100%;
+    height: 200px;
+    background: #cccccc;
+}
+
+#menu {
+    width: 100%;
+    height: 30px;
+    background: #fff;
+}
+
+#main {
+    width: 100%;
+    height: 1100px;
+    background: #cccccc;
+}
+
+#footer {
+    width: 100%;
+    height: 150px;
+    background: #888;
+}
+
+#div1 {
+    width: 98%;
+    height: 400px;
+    float: left;
+    margin: 1%;
+    background: #ccffcc;
+}
+
+#div2 {
+    width: 98%;
+    height: 50px;
+    float: left;
+    margin: 1%;
+    background: #ccffcc;
+    text-align: center;
+    font-size: 2em;
+    font-family: Helvetica, sans-serif
+}
+
+#div3 {
+    width: 98%;
+    float: left;
+    margin: 1%;
+    background: #ccffcc;
+}
+
+#div31 {
+    width: 32.0%;
+    float: left;
+    margin: 1% 1% 1% 1%;
+    background: #ccffcc;
+}
+
+#div32 {
+    width: 32.0%;
+    float: left;
+    margin: 1% 0% 1% 0%;
+    background: #ccffcc;
+}
+
+#div33 {
+    width: 32.0%;
+    float: left;
+    margin: 1% 0% 1% 1%;
+    background: #ccffcc;
+}
+
+.boton1 {
+    padding: 5px;
+    background: #ccffcc;
+    float: left;
+}
